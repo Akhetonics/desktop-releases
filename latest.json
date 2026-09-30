@@ -1,5 +1,19 @@
 {
-  "version": "0.18.0",
-  "releaseUrl": "https://github.com/Akhetonics/akhetonics-desktop/releases/tag/v0.18.0",
-  "publishedAt": "2026-09-29T13:08:28Z"
+  "version": "0.19.0",
+  "releaseUrl": "https://github.com/Akhetonics/akhetonics-desktop/releases/tag/v0.19.0",
+  "publishedAt": "2026-09-30T10:11:35Z",
+  "assets": {
+    "AkhetonicsDesktop-0.19.0-linux-arm64.tar.gz": {
+      "sha256": "79474668c2ebe9f9a19fc1f8eba14a228adb3c7d1c5aa24a6a920b9b92a118cb",
+      "size": 52739502
+    },
+    "AkhetonicsDesktop-0.19.0-linux-x64.tar.gz": {
+      "sha256": "ba2ea29ba1ab462e9a50dd7918a3ee9174f3f79176a1b8ff9405b81ac900fed9",
+      "size": 55857352
+    },
+    "AkhetonicsDesktop-Setup-v0.19.0.exe": {
+      "sha256": "425ae0741391bb4b2fd3e2c63906428e5871351480987d4ab277a8f76251d416",
+      "size": 18382616
+    }
+  }
 }
