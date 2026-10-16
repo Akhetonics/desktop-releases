@@ -1,19 +1,19 @@
 {
-  "version": "0.21.0",
-  "releaseUrl": "https://github.com/Akhetonics/akhetonics-desktop/releases/tag/v0.21.0",
-  "publishedAt": "2026-10-13T13:15:27Z",
+  "version": "0.21.1",
+  "releaseUrl": "https://github.com/Akhetonics/akhetonics-desktop/releases/tag/v0.21.1",
+  "publishedAt": "2026-10-16T09:40:09Z",
   "assets": {
-    "AkhetonicsDesktop-0.21.0-linux-arm64.tar.gz": {
-      "sha256": "619b8d7cff5852a04bb5aef31b5553ce246e7eb6e8c3f24d26b4ce9020018f80",
-      "size": 58754154
+    "AkhetonicsDesktop-0.21.1-linux-arm64.tar.gz": {
+      "sha256": "b0378ca406ccc91c0fb62dabee63fe0cd1079a456bf37365b8581ac3d414b106",
+      "size": 58762221
     },
-    "AkhetonicsDesktop-0.21.0-linux-x64.tar.gz": {
-      "sha256": "8c280c0c241eefe687bea3d531e371e03af46655f11cb2efb99a1f52b6c054af",
-      "size": 61595874
+    "AkhetonicsDesktop-0.21.1-linux-x64.tar.gz": {
+      "sha256": "8e686e44f865911aaa94b44b84435bc6ca3f1bf23660dd44905495535311db9f",
+      "size": 61622296
     },
-    "AkhetonicsDesktop-Setup-v0.21.0.exe": {
-      "sha256": "334eab7262bf04524e7dcab63b8153eb2ee71d2b9d10b124c929279dbbb26d55",
-      "size": 23309592
+    "AkhetonicsDesktop-Setup-v0.21.1.exe": {
+      "sha256": "92bc28a3199def8d03682c26b2641934e2ff3f838654a114efdd5a0e2a4d578b",
+      "size": 23317272
     }
   }
 }
