@@ -1,24 +1,24 @@
 {
-  "version": "0.23.1-dev.810",
-  "releaseUrl": "https://github.com/Akhetonics/akhetonics-desktop/releases/tag/v0.23.1-dev.810",
-  "publishedAt": "2026-11-27T09:23:38Z",
-  "runNumber": 810,
+  "version": "0.23.1-dev.814",
+  "releaseUrl": "https://github.com/Akhetonics/akhetonics-desktop/releases/tag/v0.23.1-dev.814",
+  "publishedAt": "2026-11-27T09:50:55Z",
+  "runNumber": 814,
   "assets": {
-    "AkhetonicsDesktop-Setup-v0.23.1-dev.810.exe": {
-      "sha256": "e9e516dbc7f1313c94fa88f8606add43c1120c3fa6fb846d0150b16465080a16",
-      "size": 21104920
+    "AkhetonicsDesktop-Setup-v0.23.1-dev.814.exe": {
+      "sha256": "defdd26bd6f5373ae559fe8ef0185021fb1056f7cc921138c10d095689a2cefc",
+      "size": 21110040
     },
-    "AkhetonicsDesktop-0.23.1-dev.810-win-x64.zip": {
-      "sha256": "f4534391e111a2ce2beb71f6980bb94ded3ce036c7b1ce1e07a609409f767da7",
-      "size": 20707449
+    "AkhetonicsDesktop-0.23.1-dev.814-win-x64.zip": {
+      "sha256": "82e6936135c511a2b36ec27eb227f1afea9ffcd1de59346a406f9bb1089801c8",
+      "size": 20710772
     },
-    "AkhetonicsDesktop-0.23.1-dev.810-linux-x64.tar.gz": {
-      "sha256": "2ea906a1ab73504f4be2118c6f4a6f6374ed1363319b41977bbd71e3d4d1e727",
-      "size": 59794442
+    "AkhetonicsDesktop-0.23.1-dev.814-linux-x64.tar.gz": {
+      "sha256": "8ccc1bc7ac1af7015f602216b3642ff768b347c5801d393b7c18beb3dc808286",
+      "size": 59760905
     },
-    "AkhetonicsDesktop-0.23.1-dev.810-linux-arm64.tar.gz": {
-      "sha256": "cce9ad2bbd486aa7949f1b928a942b84d977d5e47a3e1afd80d059241e0770e4",
-      "size": 56681295
+    "AkhetonicsDesktop-0.23.1-dev.814-linux-arm64.tar.gz": {
+      "sha256": "14db2beb650dbd044c572b47ed2f47dcebf14d88f64e33805de88275afbf174a",
+      "size": 56688216
     }
   }
 }
